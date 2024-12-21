@@ -7,7 +7,10 @@
 The **Skill-Based NFT Badges for Learning Challenges** platform is a blockchain-powered system that rewards learners with unique NFT badges upon completing educational challenges. Each badge represents a specific skill or achievement, stored as an immutable, verifiable asset on the blockchain. This gamified approach to learning fosters engagement, provides proof of accomplishments, and encourages skill development in a decentralized manner.
 
 ## Contract Address
-0x6A60f4dA2EB51DCEC629Db10EfEAdfB0680Cd724 
+0x6a60f4da2eb51dcec629db10efeadfb0680cd724
+
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/e3870116-5a3e-44f7-a641-24d8a13bab79" />
+
 
 ## Key Features
 - **Decentralized Credential System:** Skill-based badges are stored on the blockchain, providing tamper-proof proof of learning.
